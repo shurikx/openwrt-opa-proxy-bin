@@ -32,7 +32,7 @@ config instance 'Asia'
   Подробнее можно прочитать на странице https://github.com/Snawoot/opera-proxy
 
   📚 Источник
-Исходный код клиента: [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy)
+Исходный код  [opera-proxy]([https://github.com/Snawoot/opera-proxy](https://github.com/recrumptor/openwrt-opera-proxy-bin))
 
 
 
